@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @srijasraj
-- 👀 I’m interested in html, python, c++
+- 👀 I’m interested in html, python, c++, javascript
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jassurendra@gmail.com
