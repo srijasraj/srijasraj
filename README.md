@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @srijasraj
-- 👀 I’m interested in c++, javascript, python, MySQL
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Android Application
+- 👀 I’m interested in html, css, javascript, firebase
+- 🌱 I'would love to donate code for free to opensoure projects
+- 💞️ I’m looking to collaborate on Web Applications
 - 📫 How to reach me jassurendra@gmail.com
 
 <!---
