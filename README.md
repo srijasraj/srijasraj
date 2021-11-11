@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @srijasraj
 - 👀 I’m interested in html, css, javascript, firebase
-- 🌱 I'would love to donate code to opensource projects
+- 🌱 I'would love to donate my time, coding for opensource projects
 - 💞️ I’m looking to collaborate on Web Applications
 - 📫 How to reach me jassurendra@gmail.com
 
