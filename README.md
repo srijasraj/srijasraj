@@ -1,5 +1,5 @@
 - 😁 Hi, I’m @srijasraj
-- 🦾 Working on project Viking
+- 🦾 Working on project - Viking
 - 🍁 Contribute to opensource projects
 - 🚀 Become a great programmer
 
