@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @srijasraj
-- 👀 I’m interested in html, css, javascript, firebase
-- 🌱 I'would love to donate my time, coding for opensource projects
-- 💞️ I’m looking to collaborate on Web Applications
-- 📫 How to reach me jassurendra@gmail.com
+- 😁 Hi, I’m @srijasraj
+- 🦾 Working on project Viking
+- 🍁 Contribute to opensource projects
+- 🚀 Become a great programmer
+
+##LANGUAGES
 
 <!---
 srijasraj/srijasraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
